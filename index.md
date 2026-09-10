@@ -5,4 +5,4 @@ title: Welcome to my blog!
 GitHub Skills I've learned:
 - [x] Intro to GitHub
 - [x] Markdown
-- [ ] Pages
+- [x] Pages
